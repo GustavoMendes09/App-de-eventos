@@ -1,0 +1,15 @@
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.Domain.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.csprojAssemblyReference.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.AssemblyInfoInputs.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.AssemblyInfo.cs
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.deps.json
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.runtimeconfig.json
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.runtimeconfig.dev.json
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\bin\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.csproj.CopyComplete
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.Data\obj\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.genruntimeconfig.cache

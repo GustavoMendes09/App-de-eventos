@@ -1,0 +1,14 @@
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.CrossCutting.deps.json
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.CrossCutting.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.CrossCutting.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.Domain.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\bin\Debug\netcoreapp3.1\ProEventos.InfraStructure.Data.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.csprojAssemblyReference.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.AssemblyInfoInputs.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.AssemblyInfo.cs
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.csproj.CopyComplete
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.InfraStructure.CrossCutting\obj\Debug\netcoreapp3.1\ProEventos.CrossCutting.pdb

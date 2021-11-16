@@ -1,0 +1,9 @@
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\bin\Debug\netcoreapp3.1\ProEventos.Domain.deps.json
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\bin\Debug\netcoreapp3.1\ProEventos.Domain.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\bin\Debug\netcoreapp3.1\ProEventos.Domain.pdb
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\obj\Debug\netcoreapp3.1\ProEventos.Domain.csprojAssemblyReference.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\obj\Debug\netcoreapp3.1\ProEventos.Domain.AssemblyInfoInputs.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\obj\Debug\netcoreapp3.1\ProEventos.Domain.AssemblyInfo.cs
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\obj\Debug\netcoreapp3.1\ProEventos.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\obj\Debug\netcoreapp3.1\ProEventos.Domain.dll
+D:\Projetos\VisualStudio\PROEVENTOS\Back\src\ProEventos.API\ProEventos.Domain\obj\Debug\netcoreapp3.1\ProEventos.Domain.pdb
